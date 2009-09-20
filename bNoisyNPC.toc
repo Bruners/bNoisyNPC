@@ -1,0 +1,7 @@
+﻿## Interface: 30200
+## Title: |cFF37FDFCb|rNoisyNPC
+## Author: Bruners
+## Version: v1.0
+## Notes: STFU!!!!
+
+noisy.lua
